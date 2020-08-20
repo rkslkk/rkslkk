@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm currently working on creating a Tally App in Swift. 
+I'm attempting to learn data analysis using SQL. 
+I would love to collaborate with anyone !
+Ask me about the Dallas Mavericks, the best team around.
+How to reach me: email me or tweet at me @erikslikk
+Fun Fact: I can dunk a basketball
+
+Thanks, Erik Slikkerveer
